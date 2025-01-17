@@ -1,4 +1,4 @@
-# 單個編號OCR, 再過濾邊界的黑點.....
+# 單個編號OCR, 再過濾邊界的黑點
 import configparser
 import os.path
 import tkinter
